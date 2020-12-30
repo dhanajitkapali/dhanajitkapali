@@ -7,8 +7,7 @@
 <p align="left">
 <a href="https://twitter.com/Dhanajitkapali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dhanajitkapali" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dhanajit-kapali-1a0964121/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dhanajit-kapali-1a0964121" height="30" width="40" /></a>
-<!--<a href="https://stackoverflow.com/users/13019972/mehmet-agah-balbay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="mehmet-agah-balbay" height="30" width="40" /></a>   
-<a href="https://medium.com/@mehmeta.balbayy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mehmeta.balbayy" height="30" width="40" /></a>            -->
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
