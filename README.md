@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=dhanajitkapali&color=47ccb3)
 <h1 align="center">Hi 👋, I'm Dhanajit Kapali</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
