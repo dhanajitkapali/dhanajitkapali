@@ -1,9 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Dhanajit Kapali</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h4 align="center"><em >A passionate iOS developer & Problem solver</em></h4>
+<img align='right' src="https://github.com/dhanajitkapali/myDigitalAssets/blob/master/Working_Job%20Hunting.gif" width="350" style="border-radius:50"/>
 
 - 📫 How to reach me **dhanajitkapali@gmail.com**
 
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dhanajit-kapali-1a0964121/" target="blank"><img align="center" src="https://github.com/dhanajitkapali/myDigitalAssets/blob/master/linkedin-icon.png" alt="dhanajit-kapali-linkedIn" height="40" width="40" /> </a>  
@@ -13,6 +15,7 @@
   
 </p>
 
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
@@ -25,8 +28,15 @@
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   
-  </a> </p>
+</a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanajitkapali&show_icons=true&locale=en&layout=compact" alt="dhanajitkapali" /></p>
+  
+<hr>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanajitkapali&show_icons=true&locale=en&layout=compact" alt="dhanajitkapali" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanajitkapali&show_icons=true&locale=en" alt="dhanajitkapali" /></p>
+ -->
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanajitkapali&show_icons=true&locale=en&layout=compact" alt="dhanajitkapali" /></p>
+<hr>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanajitkapali&" alt="dhanajitkapali" /></p>
+ 
