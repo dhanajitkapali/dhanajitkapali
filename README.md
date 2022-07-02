@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dhanajit Kapali</h1>
-<h4 align="center"><em >A passionate iOS developer & Problem solver</em></h4>
+<h4 align="center"><em >A passionate Software developer & Problem solver</em></h4>
 <img align='right' src="https://github.com/dhanajitkapali/myDigitalAssets/blob/master/Working_Job%20Hunting.gif" width="350" style="border-radius:50"/>
 
 - 📫 How to reach me **dhanajitkapali@gmail.com**
