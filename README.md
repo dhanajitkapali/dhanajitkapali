@@ -3,6 +3,7 @@
 <h4 align="center"><em >A passionate Software developer & Problem solver</em></h4>
 <img align='right' src="https://github.com/dhanajitkapali/myDigitalAssets/blob/master/Working_Job%20Hunting.gif" width="350" style="border-radius:50"/>
 
+- 💼[ My Portfolio](https://dhanajitkapali.github.io/dhanajitsPortfolio/#)
 - 📫 How to reach me **dhanajitkapali@gmail.com**
 
 <hr>
